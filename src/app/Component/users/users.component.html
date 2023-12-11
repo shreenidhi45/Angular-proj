@@ -1,0 +1,11 @@
+<mat-grid-list cols="3" gutterSize="16px">
+    <mat-grid-tile *ngFor="let user of users">
+      <div>
+        <h4>{{ user.userName }}</h4>
+        <p>ID: {{ user.id }}</p>
+        <p>DOB: {{ user.DOB }}</p>
+        <p>Address: {{ user.address }}</p>
+      </div>
+    </mat-grid-tile>
+  </mat-grid-list>
+  

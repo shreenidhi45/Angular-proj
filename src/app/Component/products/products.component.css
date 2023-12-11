@@ -1,0 +1,29 @@
+/* styles.css
+
+.container {
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+.product-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  align-self: flex-end;
+  margin-top: 10px;
+} */
